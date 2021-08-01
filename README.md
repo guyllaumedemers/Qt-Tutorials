@@ -23,4 +23,4 @@ NOTE : Scripts created by myself can be found here.
 
 ## Resources
 
-💬 References for QT are given from : [doc.qt.io](https://doc.qt.io/qt-5/qtwidgets-tutorials-notepad-example.html)
+💬 References for QT are given from : [doc.qt.io](https://doc.qt.io/qt-6/gettingstarted.html)
