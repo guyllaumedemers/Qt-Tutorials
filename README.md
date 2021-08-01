@@ -13,11 +13,13 @@ NOTE : This project is broken down into multiples folders, each representing a s
 
 ## Content
 
-1.  Creating a Notepad
+*  Creating a Notepad
 
 ```
 NOTE : Scripts created by myself can be found here.
 ```
+
+* [Qt-Notepad/..](https://github.com/guyllaumedemers/Qt-Tutorials/tree/master/Qt-Notepad) : Notepad
 
 ## Resources
 
